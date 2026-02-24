@@ -98,3 +98,6 @@ This file manages the graphical user interface:
 - Based on assistant state (Listening / Speaking), the UI animation updates.
 - The voice assistant sends signals to the ORB UI to change animation states.
 - Together, they create a synchronized voice + visual interaction system.
+
+
+
