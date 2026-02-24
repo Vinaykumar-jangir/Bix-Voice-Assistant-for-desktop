@@ -77,7 +77,7 @@ pyaudio
 
 The project is divided into two main Python modules:
 
-### 1️⃣ Voice_assistant.py
+### 1️⃣ voice_assistant.py
 This file contains the core logic of the assistant:
 - Handles speech recognition
 - Detects wake word
@@ -85,7 +85,7 @@ This file contains the core logic of the assistant:
 - Executes system-level operations
 - Controls assistant workflow
 
-### 2️⃣ ORB_UI.py
+### 2️⃣ orbui.py
 This file manages the graphical user interface:
 - Creates animated ORB using Tkinter
 - Displays assistant states (Listening, Speaking, Idle)
