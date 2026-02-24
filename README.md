@@ -100,4 +100,11 @@ This file manages the graphical user interface:
 - Together, they create a synchronized voice + visual interaction system.
 
 
+## 📸 Screenshots
+
+![Screenshot 1](Screenshot%202026-02-24%20201919.png)
+![Screenshot 2](Screenshot%202026-02-24%20201903.png)
+![Screenshot 3](Screenshot%202026-02-24%20201837.png)
+![Screenshot 4](Screenshot%202026-02-24%20201812.png)
+
 
