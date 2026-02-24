@@ -67,6 +67,14 @@ Improved graphical interface
 
 ## 🧠 Project Architecture
 
+# Required python libraries:
+pyttsx3
+SpeechRecognition
+pywhatkit
+pyautogui
+screen_brightness_control
+pyaudio
+
 The project is divided into two main Python modules:
 
 ### 1️⃣ Voice_assistant.py
